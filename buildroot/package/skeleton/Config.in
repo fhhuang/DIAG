@@ -1,0 +1,4 @@
+config BR2_PACKAGE_SKELETON
+	bool
+	help
+	  The basic skeleton for your rootfs.
